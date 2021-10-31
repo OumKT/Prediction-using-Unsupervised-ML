@@ -15,12 +15,12 @@
 
 
   
-## 🔗 Data
+## 🔗 Data :
 [les données utilisées dans ce projet](https://bit.ly/3kXTdox)
 
 
   
-## 🛠 Skills
+## 🛠 Skills :
 Unsupervised ML, K-means clustering , Python...
 
   
